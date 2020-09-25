@@ -1,0 +1,13 @@
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\Principio solid\bin\Debug\netcoreapp3.1\Principio solid.exe
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\Principio solid\bin\Debug\netcoreapp3.1\Principio solid.deps.json
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\Principio solid\bin\Debug\netcoreapp3.1\Principio solid.runtimeconfig.json
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\Principio solid\bin\Debug\netcoreapp3.1\Principio solid.runtimeconfig.dev.json
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\Principio solid\bin\Debug\netcoreapp3.1\Principio solid.dll
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\Principio solid\bin\Debug\netcoreapp3.1\Principio solid.pdb
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\Principio solid\obj\Debug\netcoreapp3.1\Principio solid.csprojAssemblyReference.cache
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\Principio solid\obj\Debug\netcoreapp3.1\Principio solid.AssemblyInfoInputs.cache
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\Principio solid\obj\Debug\netcoreapp3.1\Principio solid.AssemblyInfo.cs
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\Principio solid\obj\Debug\netcoreapp3.1\Principio solid.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\Principio solid\obj\Debug\netcoreapp3.1\Principio solid.dll
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\Principio solid\obj\Debug\netcoreapp3.1\Principio solid.pdb
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\Principio solid\obj\Debug\netcoreapp3.1\Principio solid.genruntimeconfig.cache

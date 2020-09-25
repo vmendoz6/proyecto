@@ -1,0 +1,13 @@
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\SEGREGACION\bin\Debug\netcoreapp3.1\SEGREGACION.exe
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\SEGREGACION\bin\Debug\netcoreapp3.1\SEGREGACION.deps.json
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\SEGREGACION\bin\Debug\netcoreapp3.1\SEGREGACION.runtimeconfig.json
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\SEGREGACION\bin\Debug\netcoreapp3.1\SEGREGACION.runtimeconfig.dev.json
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\SEGREGACION\bin\Debug\netcoreapp3.1\SEGREGACION.dll
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\SEGREGACION\bin\Debug\netcoreapp3.1\SEGREGACION.pdb
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\SEGREGACION\obj\Debug\netcoreapp3.1\SEGREGACION.csprojAssemblyReference.cache
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\SEGREGACION\obj\Debug\netcoreapp3.1\SEGREGACION.AssemblyInfoInputs.cache
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\SEGREGACION\obj\Debug\netcoreapp3.1\SEGREGACION.AssemblyInfo.cs
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\SEGREGACION\obj\Debug\netcoreapp3.1\SEGREGACION.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\SEGREGACION\obj\Debug\netcoreapp3.1\SEGREGACION.dll
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\SEGREGACION\obj\Debug\netcoreapp3.1\SEGREGACION.pdb
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\SEGREGACION\obj\Debug\netcoreapp3.1\SEGREGACION.genruntimeconfig.cache

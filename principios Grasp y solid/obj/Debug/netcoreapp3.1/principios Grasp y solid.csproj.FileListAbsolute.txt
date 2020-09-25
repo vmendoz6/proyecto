@@ -1,0 +1,13 @@
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\prinsipios Grasp y solid\bin\Debug\netcoreapp3.1\principios Grasp y solid.exe
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\prinsipios Grasp y solid\bin\Debug\netcoreapp3.1\principios Grasp y solid.deps.json
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\prinsipios Grasp y solid\bin\Debug\netcoreapp3.1\principios Grasp y solid.runtimeconfig.json
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\prinsipios Grasp y solid\bin\Debug\netcoreapp3.1\principios Grasp y solid.runtimeconfig.dev.json
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\prinsipios Grasp y solid\bin\Debug\netcoreapp3.1\principios Grasp y solid.dll
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\prinsipios Grasp y solid\bin\Debug\netcoreapp3.1\principios Grasp y solid.pdb
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\prinsipios Grasp y solid\obj\Debug\netcoreapp3.1\principios Grasp y solid.csprojAssemblyReference.cache
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\prinsipios Grasp y solid\obj\Debug\netcoreapp3.1\principios Grasp y solid.AssemblyInfoInputs.cache
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\prinsipios Grasp y solid\obj\Debug\netcoreapp3.1\principios Grasp y solid.AssemblyInfo.cs
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\prinsipios Grasp y solid\obj\Debug\netcoreapp3.1\principios Grasp y solid.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\prinsipios Grasp y solid\obj\Debug\netcoreapp3.1\principios Grasp y solid.dll
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\prinsipios Grasp y solid\obj\Debug\netcoreapp3.1\principios Grasp y solid.pdb
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\prinsipios Grasp y solid\obj\Debug\netcoreapp3.1\principios Grasp y solid.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\principio solid 2\bin\Debug\netcoreapp3.1\abierto y cerrado.exe
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\principio solid 2\bin\Debug\netcoreapp3.1\abierto y cerrado.deps.json
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\principio solid 2\bin\Debug\netcoreapp3.1\abierto y cerrado.runtimeconfig.json
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\principio solid 2\bin\Debug\netcoreapp3.1\abierto y cerrado.runtimeconfig.dev.json
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\principio solid 2\bin\Debug\netcoreapp3.1\abierto y cerrado.dll
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\principio solid 2\bin\Debug\netcoreapp3.1\abierto y cerrado.pdb
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\principio solid 2\obj\Debug\netcoreapp3.1\abierto y cerrado.csprojAssemblyReference.cache
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\principio solid 2\obj\Debug\netcoreapp3.1\abierto y cerrado.AssemblyInfoInputs.cache
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\principio solid 2\obj\Debug\netcoreapp3.1\abierto y cerrado.AssemblyInfo.cs
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\principio solid 2\obj\Debug\netcoreapp3.1\abierto y cerrado.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\principio solid 2\obj\Debug\netcoreapp3.1\abierto y cerrado.dll
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\principio solid 2\obj\Debug\netcoreapp3.1\abierto y cerrado.pdb
+C:\Users\VICTOR\Desktop\IBERO\DISEÑO\Diseño\principio solid 2\obj\Debug\netcoreapp3.1\abierto y cerrado.genruntimeconfig.cache
